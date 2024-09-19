@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MaksimKmetPortfolio/static/css/main.c2f1fca4.css",
+    "main.js": "/MaksimKmetPortfolio/static/js/main.65008cd9.js",
+    "static/js/453.f4fbaa6d.chunk.js": "/MaksimKmetPortfolio/static/js/453.f4fbaa6d.chunk.js",
+    "static/media/about-pic .png": "/MaksimKmetPortfolio/static/media/about-pic .7ef534ff074357e6e944.png",
+    "static/media/project-3.png": "/MaksimKmetPortfolio/static/media/project-3.d5bf2eac8c8937a85bc3.png",
+    "static/media/project-2.png": "/MaksimKmetPortfolio/static/media/project-2.2f15d9f817c3b4924ae6.png",
+    "static/media/main.picture.jpg": "/MaksimKmetPortfolio/static/media/main.picture.403989ae417632009a93.jpg",
+    "static/media/DeWatermark.ai_1725988594015.png": "/MaksimKmetPortfolio/static/media/DeWatermark.ai_1725988594015.11ce94b3beba59711204.png",
+    "static/media/project-1.png": "/MaksimKmetPortfolio/static/media/project-1.0009f408e02c21b12607.png",
+    "static/media/email.png": "/MaksimKmetPortfolio/static/media/email.761df3bc69bdc631bd2f.png",
+    "static/media/checkmark.png": "/MaksimKmetPortfolio/static/media/checkmark.86728d9a224a2c7c95d4.png",
+    "static/media/arrow.png": "/MaksimKmetPortfolio/static/media/arrow.0dfabb0beab795eea0ab.png",
+    "static/media/linkedin.png": "/MaksimKmetPortfolio/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "index.html": "/MaksimKmetPortfolio/index.html",
+    "main.c2f1fca4.css.map": "/MaksimKmetPortfolio/static/css/main.c2f1fca4.css.map",
+    "main.65008cd9.js.map": "/MaksimKmetPortfolio/static/js/main.65008cd9.js.map",
+    "453.f4fbaa6d.chunk.js.map": "/MaksimKmetPortfolio/static/js/453.f4fbaa6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2f1fca4.css",
+    "static/js/main.65008cd9.js"
+  ]
+}
