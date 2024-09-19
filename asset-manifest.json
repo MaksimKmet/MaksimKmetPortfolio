@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MaksimKmetPortfolio/static/css/main.c2f1fca4.css",
+    "main.css": "/MaksimKmetPortfolio/static/css/main.b9ad4023.css",
     "main.js": "/MaksimKmetPortfolio/static/js/main.65008cd9.js",
     "static/js/453.f4fbaa6d.chunk.js": "/MaksimKmetPortfolio/static/js/453.f4fbaa6d.chunk.js",
     "static/media/about-pic .png": "/MaksimKmetPortfolio/static/media/about-pic .7ef534ff074357e6e944.png",
@@ -14,12 +14,12 @@
     "static/media/arrow.png": "/MaksimKmetPortfolio/static/media/arrow.0dfabb0beab795eea0ab.png",
     "static/media/linkedin.png": "/MaksimKmetPortfolio/static/media/linkedin.032cf8a63be2f0f4d425.png",
     "index.html": "/MaksimKmetPortfolio/index.html",
-    "main.c2f1fca4.css.map": "/MaksimKmetPortfolio/static/css/main.c2f1fca4.css.map",
+    "main.b9ad4023.css.map": "/MaksimKmetPortfolio/static/css/main.b9ad4023.css.map",
     "main.65008cd9.js.map": "/MaksimKmetPortfolio/static/js/main.65008cd9.js.map",
     "453.f4fbaa6d.chunk.js.map": "/MaksimKmetPortfolio/static/js/453.f4fbaa6d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2f1fca4.css",
+    "static/css/main.b9ad4023.css",
     "static/js/main.65008cd9.js"
   ]
 }
