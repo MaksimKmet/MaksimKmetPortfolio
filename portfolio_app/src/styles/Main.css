@@ -191,7 +191,7 @@ section {
 
 .section__pic-container {
   display: flex;
-  height: 500px;
+  height: 600px;
   width: 500px;
   margin: auto 0;
 }
@@ -561,7 +561,7 @@ footer p {
   }
   .section__pic-container {
     width: 275px;
-    height: 275px;
+    height: 375px;
     margin: 2rem auto;
     justify-content: center;
   }
@@ -629,7 +629,6 @@ footer p {
   }
   .section__pic-container {
     width: auto;
-    height: 50vw;
     justify-content: center;
   }
   .section__text__p2 {
