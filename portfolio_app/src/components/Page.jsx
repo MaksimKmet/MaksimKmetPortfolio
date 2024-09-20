@@ -7,7 +7,7 @@ import logoGithub from'./assets/github.png'
 import logoLinkedIn from'./assets/linkedin.png'
 import logoNodeJs from'./assets/DeWatermark.ai_1725988594015.png'
 import ProfilePic from'./assets/about-pic .png'
-import Project1 from './assets/project-1.png'
+// import Project1 from './assets/project-1.png'
 import Project2 from './assets/project-2.png'
 import Project3 from './assets/project-3.png'
 import CheckedLogo from './assets/checkmark.png'
@@ -444,7 +444,7 @@ let [menuLinks, setMenuLinks] = useState('menu-links')
         <div className="details-container color-container">
           <div className="article-container">
             <img
-              src={Project1}
+              src={'/portfolio_app/src/components/assets/Todolist.png'}
               alt="Project 1"
               className="project-img"
             />
